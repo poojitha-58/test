@@ -1,2 +1,4 @@
 # testing git
-print("hellow")
+a=  10 
+print("hellow" , a)
+
